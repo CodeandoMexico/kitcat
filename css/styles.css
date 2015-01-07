@@ -1,0 +1,33 @@
+.body {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	color: #545554;
+}
+
+.p {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: center;
+}
+
+.navbar-inverse {
+    background-color: #545554;
+}
+
+.btn-default {
+	background-color: #545554;
+	color: #fff;
+}
+
+.col-md-4 {
+	text-align: center;
+}
+
+.footer {
+	background-color: #545554;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
